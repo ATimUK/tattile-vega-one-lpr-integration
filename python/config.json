@@ -1,1 +1,23 @@
-Config file
+	
+listen_host	"0.0.0.0"
+listen_port	51112
+drb_host	"127.0.0.1"
+drb_port	51111
+drb_retry_count	2
+drb_retry_delay	0.5
+camera_score_threshold	85
+detector_model	"yolo-v9-s-608-license-plate-end2end"
+detector_conf_thresh	0.4
+ocr_model	"cct-s-v2-global-model"
+min_ocr_confidence	0.5
+char_replacements	
+O	"0"
+enable_csv_log	true
+csv_log_path	"logs/lpr_log.csv"
+enable_image_save	true
+image_save_path	"images"
+log_level	"INFO"
+socket_recv_timeout	2
+socket_total_timeout	10
+max_packet_size	724288
+max_connections	20
