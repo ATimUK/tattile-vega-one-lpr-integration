@@ -79,7 +79,7 @@ The middleware was deployed directly on the DRB server due to network administra
 </p>
 
 <p align="center">
-<i>Figure 1. AI-enhanced middleware architecture for Tattile Vega One and DRB SiteWatch integration.</i>
+<i>Figure 2. Network topology.</i>
 </p>
 
 
@@ -197,6 +197,14 @@ and other commonly misidentified symbols.
 ---
 
 ## Results
+
+<p align="center">
+  <img src="images/screenshot_LPR.jpg" width="1000">
+</p>
+
+<p align="center">
+<i>Figure 2. Network topology.</i>
+</p>
 
 The implementation produced significant operational improvements.
 
