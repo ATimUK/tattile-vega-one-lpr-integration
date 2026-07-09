@@ -74,6 +74,15 @@ The middleware was deployed directly on the DRB server due to network administra
 
 ## Hardware and Software Stack
 
+<p align="center">
+  <img src="images/Network topology.png" width="1000">
+</p>
+
+<p align="center">
+<i>Figure 1. AI-enhanced middleware architecture for Tattile Vega One and DRB SiteWatch integration.</i>
+</p>
+
+
 ### Hardware
 
 - Tattile Vega One LPR Cameras
